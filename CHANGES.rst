@@ -3,6 +3,32 @@ Release history
 ===============
 
 
+v4.6.1 (2026-08-14)
+===================
+
+Bug Fixes
+---------
+
+* **logging**: Logs handling through tqdm (`#1640`_, `48c3891`_)
+
+Continuous Integration
+----------------------
+
+* Tox and uv conf cleanup (`#2300`_, `8f6e915`_)
+
+Documentation
+-------------
+
+* Update provider registration introduction (`#2302`_, `cb4e4d6`_)
+
+.. _#1640: https://github.com/CS-SI/eodag/pull/1640
+.. _#2300: https://github.com/CS-SI/eodag/pull/2300
+.. _#2302: https://github.com/CS-SI/eodag/pull/2302
+.. _48c3891: https://github.com/CS-SI/eodag/commit/48c38912bb5d24cae599769951db7e4550b223b1
+.. _8f6e915: https://github.com/CS-SI/eodag/commit/8f6e915d831f73effabe139ca828f89f718c3008
+.. _cb4e4d6: https://github.com/CS-SI/eodag/commit/cb4e4d64b23173289eefafddaa740bbfaff4a7ee
+
+
 v4.6.0 (2026-08-11)
 ===================
 
